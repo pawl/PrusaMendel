@@ -51,6 +51,8 @@
  * Assembled Y axis
  * @name Y axis 
  * @assembled
+ * @using 2 belt-clamp-nut-holder
+ * @using 2 belt-clamp
  * @using 3 y-bearing
  * @id y-axis
  */
